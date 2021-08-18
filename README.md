@@ -22,4 +22,4 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JeroGamingYT&repo=MyItem&show_owner=true&theme=great-gatsby)](https://github.com/NgLamVN/MyItem)
 <!--
-**NgLamVN/NgLamVN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**JeroGamingYT/JeroGamingYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
