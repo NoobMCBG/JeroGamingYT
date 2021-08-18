@@ -16,10 +16,10 @@
 
 ---
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JeroGamingYT&repo=HeoTechnology&show_owner=true&theme=great-gatsby)](https://github.com/NgLamVN/HeoTechnology)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JeroGamingYT&repo=HeoTechnology&show_owner=true&theme=great-gatsby)](https://github.com/JeroGamingYT/HeoTechnology)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JeroGamingYT&repo=Giftcode&show_owner=true&theme=great-gatsby)](https://github.com/NgLamVN/Giftcode)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JeroGamingYT&repo=Giftcode&show_owner=true&theme=great-gatsby)](https://github.com/JeroGamingYT/Giftcode)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JeroGamingYT&repo=MyItem&show_owner=true&theme=great-gatsby)](https://github.com/NgLamVN/MyItem)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JeroGamingYT&repo=MyItem&show_owner=true&theme=great-gatsby)](https://github.com/JeroGamingYT/MyItem)
 <!--
 **JeroGamingYT/JeroGamingYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
