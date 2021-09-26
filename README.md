@@ -4,17 +4,6 @@
 - 💥 I am currently working and studying at VietNam.
 - 💦 You can contact me on Facebook.
 - 💬 That's some information about me.
-### Connect with me:
-
-[<img align="left" alt="jasonwynn10.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="jasonwynn10 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="jasonwynn10 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="jasonwynn10 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="jasonwynn10 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-
-### Languages and Tools:
 
 ---
 ![JeroGamingYT's github stats](https://github-readme-stats.vercel.app/api?username=JeroGamingYT&show_icons=true&theme=radical)
