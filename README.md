@@ -1,5 +1,9 @@
 ### Hi Im JeroGamingYT 👋
-Test
+💠 My current age: Unknown
+💠 The programming languages I learned are: PHP, Python, Javascript, Kotlin, HTML, ...
+💠 I am currently working and studying at VietNam.
+💠 You can contact me on Facebook.
+💠 That's some information about me.
 
 ---
 ![JeroGamingYT's github stats](https://github-readme-stats.vercel.app/api?username=JeroGamingYT&show_icons=true&theme=radical)
