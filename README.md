@@ -1,11 +1,10 @@
 ### Hi Im JeroGamingYT 👋
 Test
-```
 
 ---
 ![JeroGamingYT's github stats](https://github-readme-stats.vercel.app/api?username=JeroGamingYT&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeroGamingYT&show_icons=true&hide_border=true&theme=great-gatsby&count_private=true)](https://github.com/JeroGamingYT)
-
+| ------------- | ------------- |
 ---
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JeroGamingYT&repo=HeoTechnology&show_owner=true&theme=great-gatsby)](https://github.com/JeroGamingYT/HeoTechnology)
