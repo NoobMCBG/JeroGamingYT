@@ -19,9 +19,6 @@
 
 ---
 [![JeroGamingYT's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeroGamingYT&show_icons=true&theme=great-gatsby)](https://github.com/JeroGamingYT)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JeroGamingYT&repo=LockedItem&show_owner=true&theme=great-gatsby)](https://github.com/JeroGamingYT/LockedItem)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JeroGamingYT&repo=KitEffect&show_owner=true&theme=great-gatsby)](https://github.com/JeroGamingYT/KitEffect)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeroGamingYT&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **JeroGamingYT/JeroGamingYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
