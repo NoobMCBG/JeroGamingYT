@@ -18,8 +18,7 @@
 <br />
 
 ---
- <a href="https://github-readme-stats.vercel.app/api?username=JeroGamingYT&show_icons=true&theme=great-gatsby"><img align="center" src="https://github-readme-stats.vercel.app/api?username=JeroGamingYT&show_icons=true&theme=great-gatsby" alt="Anurag's github stats" /></a> <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=JeroGamingYT&layout=compact&theme=great-gatsby"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeroGamingYT&layout=compact&theme=great-gatsby" /></a>
-
+[![JeroGamingYT's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeroGamingYT&show_icons=true&theme=great-gatsby)](https://github.com/JeroGamingYT)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JeroGamingYT&repo=LockedItem&show_owner=true&theme=great-gatsby)](https://github.com/JeroGamingYT/LockedItem)
 
