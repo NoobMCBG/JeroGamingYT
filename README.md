@@ -18,13 +18,12 @@
 <br />
 
 ---
-![JeroGamingYT's github stats](https://github-readme-stats.vercel.app/api?username=JeroGamingYT&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeroGamingYT&layout=compact&theme=radical)](https://github.com/JeroGamingYT)
+![JeroGamingYT's github stats](https://github-readme-stats.vercel.app/api?username=JeroGamingYT&show_icons=true&theme=great-gatsby)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeroGamingYT&layout=compact&theme=great-gatsby)](https://github.com/JeroGamingYT)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JeroGamingYT&repo=HeoTechnology&show_owner=true&theme=great-gatsby)](https://github.com/JeroGamingYT/HeoTechnology)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JeroGamingYT&repo=Giftcode&show_owner=true&theme=great-gatsby)](https://github.com/JeroGamingYT/Giftcode)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JeroGamingYT&repo=LockedItem&show_owner=true&theme=great-gatsby)](https://github.com/JeroGamingYT/LockedItem)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JeroGamingYT&repo=MyItem&show_owner=true&theme=great-gatsby)](https://github.com/JeroGamingYT/MyItem)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JeroGamingYT&repo=KitEffect&show_owner=true&theme=great-gatsby)](https://github.com/JeroGamingYT/KitEffect)
 <!--
 **JeroGamingYT/JeroGamingYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
