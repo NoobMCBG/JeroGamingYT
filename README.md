@@ -5,7 +5,10 @@
 - 💦 You can contact me on Facebook.
 - 💬 That's some information about me.
 ## Contant me at:
-[<img align="left" alt="lightnight.ml" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />]
+[<img align="left" alt="lightight.ml" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="https://www.youtube.com/channel/UCM_dM24t-5bRqtq_3gWR9Lg" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+
+<br />
 
 ---
 ![JeroGamingYT's github stats](https://github-readme-stats.vercel.app/api?username=JeroGamingYT&show_icons=true&theme=radical)
