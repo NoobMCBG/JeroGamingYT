@@ -18,7 +18,7 @@
 <br />
 
 ---
-![JeroGamingYT's github stats](https://github-readme-stats.vercel.app/api?username=JeroGamingYT&show_icons=true&theme=great-gatsby)
+[![JeroGamingYT's github stats](https://github-readme-stats.vercel.app/api?username=JeroGamingYT&show_icons=true&theme=great-gatsby)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeroGamingYT&layout=compact&theme=great-gatsby)](https://github.com/JeroGamingYT)
 
 
