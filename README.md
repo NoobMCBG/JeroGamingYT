@@ -19,6 +19,6 @@
 <br />
 
 ---
-[![JeroGamingYT's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeroGamingYT&show_icons=true&theme=great-gatsby)](https://github.com/JeroGamingYT)
+[![JeroGamingYT's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeroGamingYT&show_icons=true&theme=radical)](https://github.com/JeroGamingYT)
 <!--
 **JeroGamingYT/JeroGamingYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
