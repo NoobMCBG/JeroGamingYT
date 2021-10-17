@@ -2,6 +2,7 @@
 - 💠 My current age: Unknown
 - 🍀 The programming languages I learned are: PHP, Python, Javascript, Kotlin, HTML, ...
 - 💥 I am currently working and studying at VietNam.
+- ❤ Status: Make a date
 - 💦 You can contact me on Facebook.
 - 💬 That's some information about me.
 
