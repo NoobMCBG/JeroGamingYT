@@ -27,4 +27,4 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JeroGamingYT&repo=ItemDropText&show_owner=true&theme=radical&border_color=fff)](https://github.com/JeroGamingYT/ItemDropText)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JeroGamingYT&repo=KitEffect&show_owner=true&theme=radical&border_color=fff)](https://github.com/JeroGamingYT/KitEffect)
 <!--
-**JeroGamingYT/JeroGamingYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**JeroGamingYT/JeroGamingYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile .
