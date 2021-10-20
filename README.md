@@ -20,11 +20,11 @@
 <br />
 
 ---
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=JeroGamingYT&show_icons=true&theme=radical" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeroGamingYT&theme=radical" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=JeroGamingYT&show_icons=true&theme=radical&hide_border=true&count_private=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeroGamingYT&theme=radical&hide_border=true&count_private=true" /> |
 | ------------- | ------------- |
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JeroGamingYT&repo=LockedItem&show_owner=true&theme=radical)](https://github.com/JeroGamingYT/LockedItem)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JeroGamingYT&repo=NoAdvertisings&show_owner=true&theme=radical)](https://github.com/JeroGamingYT/NoAdvertisings)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JeroGamingYT&repo=ItemDropText&show_owner=true&theme=radical)](https://github.com/JeroGamingYT/ItemDropText)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JeroGamingYT&repo=KitEffect&show_owner=true&theme=radical)](https://github.com/JeroGamingYT/KitEffect)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JeroGamingYT&repo=LockedItem&show_owner=true&theme=radical&border_color=fff)](https://github.com/JeroGamingYT/LockedItem)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JeroGamingYT&repo=NoAdvertisings&show_owner=true&theme=radical&border_color=fff)](https://github.com/JeroGamingYT/NoAdvertisings)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JeroGamingYT&repo=ItemDropText&show_owner=true&theme=radical&border_color=fff)](https://github.com/JeroGamingYT/ItemDropText)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JeroGamingYT&repo=KitEffect&show_owner=true&theme=radical&border_color=fff)](https://github.com/JeroGamingYT/KitEffect)
 <!--
 **JeroGamingYT/JeroGamingYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
