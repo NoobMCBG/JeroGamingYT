@@ -20,8 +20,16 @@
 <br />
 
 ---
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=JeroGamingYT&show_icons=true&theme=radical&hide_border=true&count_private=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeroGamingYT&theme=radical&hide_border=true&count_private=true" /> |
-| ------------- | ------------- |
+# :star: My Stats
+<p align="center"><a href="#">
+  <img src="https://github-readme-stats.vercel.app/api?username=JeroGamingYT&show_icons=true&include_all_commits=true&line_height=33&count_private=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JeroGamingYT&langs_count=4&count_private=true&theme=radical" />
+</a></p>
+<p align="center"><a href="#">
+  <img src="https://github-profile-trophy.vercel.app/?username=JeroGamingYT&margin-w=28&margin-h=15&theme=radical" />
+</p></a></p>
+  
+<br><br><br><br>
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JeroGamingYT&repo=LockedItem&show_owner=true&theme=radical&border_color=fff)](https://github.com/JeroGamingYT/LockedItem)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JeroGamingYT&repo=NoAdvertisings&show_owner=true&theme=radical&border_color=fff)](https://github.com/JeroGamingYT/NoAdvertisings)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=JeroGamingYT&repo=ItemDropText&show_owner=true&theme=radical&border_color=fff)](https://github.com/JeroGamingYT/ItemDropText)
