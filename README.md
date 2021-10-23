@@ -38,6 +38,26 @@
   [![-](https://github-readme-stats.vercel.app/api/pin/?username=JeroGamingYT&repo=NoAdvertisings&show_owner=true&theme=radical&border_color=fff)](https://github.com/JeroGamingYT/NoAdvertisings)
   [![-](https://github-readme-stats.vercel.app/api/pin/?username=JeroGamingYT&repo=ItemDropText&show_owner=true&theme=radical&border_color=fff)](https://github.com/JeroGamingYT/ItemDropText)
   [![-](https://github-readme-stats.vercel.app/api/pin/?username=JeroGamingYT&repo=KitEffect&show_owner=true&theme=radical&border_color=fff)](https://github.com/JeroGamingYT/KitEffect)
+  [![-](https://github-readme-stats.vercel.app/api/pin/?username=JeroGamingYT&repo=ConsoleChat&show_owner=true&theme=radical&border_color=fff)](https://github.com/JeroGamingYT/ConsoleChat)
+  [![-](https://github-readme-stats.vercel.app/api/pin/?username=JeroGamingYT&repo=MineRal&show_owner=true&theme=radical&border_color=fff)](https://github.com/JeroGamingYT/MineRal)
+  
+</div>
+
+<br><br><br><br>
+
+# :package: PyThon Projects
+<div align="center">
+  
+  [![-](https://github-readme-stats.vercel.app/api/pin/?username=JeroGamingYT&repo=SendMail&show_owner=true&theme=radical&border_color=fff)](https://github.com/JeroGamingYT/SendMail)
+  
+</div>
+
+<br><br><br><br>
+
+# :package: JavaScript Projects
+<div align="center">
+  
+  [![-](https://github-readme-stats.vercel.app/api/pin/?username=JeroGamingYT&repo=Discord-Bot&show_owner=true&theme=radical&border_color=fff)](https://github.com/JeroGamingYT/Discord-Bot)
   
 </div>
 <!--
